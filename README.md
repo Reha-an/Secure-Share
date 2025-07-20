@@ -27,7 +27,7 @@ This repo consists of my Cryptography project which involves safe transfer of fi
 To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rohithvarma444/SecureShare.git
+   git clone git@github.com:Reha-an/Secure-Share.git
    ```
 2. Navigate to the project directory:
    ```bash
