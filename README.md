@@ -1,5 +1,5 @@
 # SecureShare
-This repo consists of my Cryptography course project which involves safe transfer of files between users using cryptographic encryptions.
+This repo consists of my Cryptography project which involves safe transfer of files between users using cryptographic encryptions.
 
 ## Features
 - **User Authentication**: Users can register and log in securely.
